@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bitcoin Wallet</string>
+
+    <string name="fetching_data">Fetching data...</string>
+    <string name="retry">Retry.</string>
+    <string name="transaction_time_format">HH:mm</string>
+    <string name="transaction_day_of_the_month_format">d LLLL</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="select_category">Select Category</string>
+    <string name="add">Add</string>
+    <string name="deposit">Deposit</string>
+    <string name="enter_deposit_amount">Enter deposit amount</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="balance">Balance: %1$s</string>
+</resources>
